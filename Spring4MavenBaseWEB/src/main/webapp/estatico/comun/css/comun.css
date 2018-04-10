@@ -1,0 +1,41 @@
+/*contendor general*/
+.contenedor{
+	border:1px solid black;
+	padding:5%;
+	text-align:center;
+}
+/*titulo general*/
+.contenedor h3{
+	margin-bottom:2%;
+}
+/*tabla principal de listado de usuarios*/
+.contenedor table{
+	margin: 5% auto;
+	width:70%;
+	border:1px solid black;
+}
+.contenedor table th {
+	background-color: grey;
+	color:white;
+	text-align:center;
+}
+.opciones{
+	width:10%;
+}
+/*color para mensajes de validacion*/
+span.errorTootip {
+	color: red;
+}
+/*Menu de idiomas*/
+#menu {
+padding: 10px;
+}
+
+#menu li{
+	display:inline;
+	padding:5px;
+}
+
+.derecha{
+	float:right;
+}
